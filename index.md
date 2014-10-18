@@ -1,5 +1,5 @@
 ---
-title: Keep on Fighting!
+title: Gnothi Seauton!
 layout: page
 ---
 
