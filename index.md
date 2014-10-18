@@ -1,5 +1,5 @@
 ---
-title: Gnothi Seauton!!
+title: Gnothi Seauton dudu!!
 layout: page
 ---
 
