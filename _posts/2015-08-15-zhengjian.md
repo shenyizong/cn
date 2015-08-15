@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “真真假假”
+title: "真真假假"
 categories: [Masami]
 tags: [正見]
 ---
